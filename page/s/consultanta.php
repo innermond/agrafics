@@ -9,6 +9,7 @@
 				<p>Procesul de consultanta presupune interactiune la un nivel complex si atat de dinamic, incat relatiile dintre elementele procesuale se remodeleaza constant, in fiecare etapa, in functie de cercetarile, analizele si studiile realizate, nevoile si conditionarile clientilor nostri si ale proiectelor acestora, precum si in functie de actiunea diversilor factori externi care influenteaza mediul de referinta. </p>
 				<p>Informatiile obtinute genereaza anumite recomandari, implementarea acestora si evaluarea solutiilor implementate pentru rezolvarea problemelor semnalate dau masura si impun directia actiunilor urmatoare, astfel incat acest proces se reia sub alta forma de fiecare data, adaptat tuturor situatiilor specifice. </p>
 		</div>
+		</div>
 	</div>
 </section>
 <section class="grey">
@@ -40,6 +41,7 @@
       <p>Nam malesuada nisl et tortor ultrices facilisis. Donec eu laoreet quam, ac euismod ligula. Curabitur nec diam cursus, sagittis odio id, euismod dui. Sed blandit at eros vitae suscipit. Proin dignissim urna ac diam fringilla scelerisque. Mauris quis interdum dui. Nunc eget nibh dignissim, dapibus mi id, bibendum leo.</p>
       <p>Pellentesque urna ipsum, aliquam ac facilisis at, imperdiet non elit. Praesent ultricies ac leo non porttitor. Cras at orci sit amet ex vestibulum molestie. Mauris a tincidunt libero. Nam vulputate purus quam, vitae mollis magna congue sit amet. Donec auctor interdum leo in scelerisque. Suspendisse ultricies sit amet lorem ut tincidunt. Suspendisse congue at nisl id blandit. Donec orci quam, finibus vitae lacus in, hendrerit imperdiet enim. Donec eu diam ligula. Quisque mattis dolor eget lorem hendrerit, sit amet venenatis odio faucibus. Morbi mollis facilisis accumsan. Aenean non elit odio. Nulla elementum congue odio vel convallis. Ut faucibus purus et ligula convallis efficitur quis ac odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
       </div>
+		</div>
 	</div>
 </section>
 </main>

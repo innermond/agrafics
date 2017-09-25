@@ -69,27 +69,41 @@ function abs_path($part_path) {
   return realpath(__DIR__ . DIRECTORY_SEPARATOR . 'page' . DIRECTORY_SEPARATOR . $part_path);
 }
 
+function return_include($include, ...$params) {
+	ob_start();
+	include $include;
+	$out = ob_get_contents();
+	ob_end_clean();
+	return $out;
+}
+
 function page($head, $menu, $page, $footer) {
-  yield include $head;
-  yield include $menu;
-  yield include $page;
-  yield include $footer;
+  yield return_include($head);
+	yield return_include($menu, $page);
+	yield return_include($page);
+	yield return_include($footer);
 }
 
 function page_simple($page) {
+	$menu = 'menu/simple';
   $nodots = remove_dot_segments($page);
-  if ('' == $nodots) return [sprintf('"page %s" not found', $page), 404];
+  if ('' == $nodots) $nodots = '/index' and $menu = 'menu/home';
 
-  $parts = ['head', 'menu', "s/$nodots", 'footer'];
+  $parts = ['head', $menu, "s/$nodots", 'footer'];
   $parts = array_map(function($elem) {
     return abs_path($elem . '.php');
   }, $parts);
+
+	return parts_join($parts, 2);
+}
+
+function parts_join($parts, $foundable) {
   $out = '';
   foreach(page(...$parts) as $inx => $part) {
     if (false === $part) { 
       return 
-        $inx == 2 
-        ? [sprintf('"page %s" not found', $page), 404] 
+        $inx == $foundable 
+        ? [ 'Not Found', 404] 
         : ['missing page part', 500];
     }
     $out .= $part;

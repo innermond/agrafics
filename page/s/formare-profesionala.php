@@ -9,7 +9,8 @@
 				<p>Am sprijinit cresterea si dezvoltarea profesionala a functionarilor publici si a personalului contractual din majoritatea institutiilor, autoritatilor si agentiilor centrale din Romania, a persoanelor calificate/ necalificate si/ sau cu risc social crescut si vulnerabilitate ridicata pe piata muncii (persoane care se confrunta cu saracia  si/ sau excluziunea sociala pe piata muncii: someri, tineri, persoane din mediul rural, femei, rromi etc).</p>
 </div>
 			<div class="col-sm-6"> <img src="images/management.jpg" class="img-responsive" alt=""> </div>
-				</div>
+		</div>
+	</div>
 </section>
 <section class="grey">
 	<div class="container">
@@ -45,6 +46,7 @@
         <p>Integer convallis porttitor massa non gravida. Duis lobortis iaculis hendrerit. Nullam vel faucibus odio. Nam lobortis lacus semper leo porta finibus. Aenean id dignissim sem, eu pretium nunc. Etiam a imperdiet nunc. Quisque sit amet aliquet elit. Pellentesque ac aliquet odio. Suspendisse ornare quam ut dui mollis, id viverra diam finibus. Fusce dictum risus risus, nec efficitur dui iaculis quis. Nullam consequat turpis ut congue ornare. Nunc nec turpis a elit elementum pellentesque sit amet eu justo. Fusce fermentum dui vel erat molestie, vitae hendrerit nunc fringilla. Nunc et mattis sem. Phasellus vitae auctor dui, in fringilla massa.</p>
         <p>Fusce ac metus sed purus rhoncus rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec accumsan ligula. Nunc quis tempus metus. Nam euismod est lacus, nec imperdiet ex sagittis quis. Mauris in viverra mauris. Pellentesque egestas convallis dui, vel cursus erat pulvinar sed. Nam justo risus, varius ultricies scelerisque eleifend, tincidunt ac nunc.</p>
       </div>
+		</div>
 	</div>
 </section>
 </main>
