@@ -1,5 +1,4 @@
 <?php
-
 // as per RFC 3986
 // @see http://tools.ietf.org/html/rfc3986#section-5.2.4
 function remove_dot_segments($input) {
@@ -111,7 +110,7 @@ function parts_join($parts, $foundable) {
   return [$out, 200];
 }
 
-[$rendered, $code] = page_simple($_SERVER['REQUEST_URI']);
+list($rendered, $code) = page_simple($_SERVER['REQUEST_URI']);
 switch ($code) {
   case 500:
     header($_SERVER['SERVER_PROTOCOL'] . ' 500 Internal Server Error', true, 500);
