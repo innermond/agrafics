@@ -111,7 +111,7 @@ function parts_join($parts, $foundable) {
   return [$out, 200];
 }
 
-[$rendered, $code] = page_simple($_SERVER['REQUEST_URI']);
+list($rendered, $code) = page_simple($_SERVER['REQUEST_URI']);
 switch ($code) {
   case 500:
     header($_SERVER['SERVER_PROTOCOL'] . ' 500 Internal Server Error', true, 500);

@@ -439,7 +439,8 @@ footer .max-w{
 	position: relative;
 }
 .carousel-control{
-	width:auto;
+  position: relative;
+  width: 70%;
 }
 main section.section-presenting{
   margin-bottom:20px;
@@ -567,4 +568,8 @@ div.thumbnail.humanface{
 	.servicii .col-xs-6{
 		width: 100%;
 	}
+  .carousel-control{
+    width: auto;
+  }
 }
+
