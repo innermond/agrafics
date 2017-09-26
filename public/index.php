@@ -87,7 +87,7 @@ function page($head, $menu, $page, $footer) {
 function page_simple($page) {
 	$menu = 'menu/simple';
   $nodots = remove_dot_segments($page);
-  if ('' == $nodots) $nodots = '/index' and $menu = 'menu/home';
+  if ('/' == $nodots) $nodots = '/index' and $menu = 'menu/home';
 
   $parts = ['head', $menu, "s/$nodots", 'footer'];
   $parts = array_map(function($elem) {
@@ -111,7 +111,7 @@ function parts_join($parts, $foundable) {
   return [$out, 200];
 }
 
-[$rendered, $code] = page_simple($_SERVER['PATH_INFO']);
+[$rendered, $code] = page_simple($_SERVER['REQUEST_URI']);
 switch ($code) {
   case 500:
     header($_SERVER['SERVER_PROTOCOL'] . ' 500 Internal Server Error', true, 500);

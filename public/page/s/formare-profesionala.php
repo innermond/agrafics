@@ -20,22 +20,22 @@
         <p>Vivamus non porta elit. Curabitur molestie magna est, nec porttitor mauris dignissim quis. Nunc sed metus elementum nibh venenatis ornare. Aliquam leo neque, tristique non viverra nec, gravida a massa. Nam vel mi gravida, placerat dui ut, venenatis purus. Etiam in orci non lorem aliquet volutpat. Suspendisse eget purus vitae tellus dictum iaculis in at tortor. Aliquam eget arcu arcu. Curabitur orci justo, ultrices vitae ex lobortis, sagittis accumsan mauris. Etiam auctor et nisl sed posuere. Donec molestie purus nulla, id consectetur leo vestibulum sed. Nullam varius orci sed orci eleifend, eu accumsan augue varius. Nunc et ligula rhoncus, consectetur diam at, vulputate nunc. Vestibulum sit amet semper erat, et euismod justo. Suspendisse laoreet lectus in lacus accumsan, ac fringilla ligula consectetur.</p>
       <div class="row"> 
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-1.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-2.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-3.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-4.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-5.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href="https://placeholder.com"><img src="http://via.placeholder.com/200x200"></a>
+          <a href=""><img src="images/formare-figura-6.jpg"></a>
         </div>
       </div>
       </div>
