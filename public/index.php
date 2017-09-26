@@ -86,10 +86,10 @@ function page($head, $menu, $page, $footer) {
 
 function page_simple($page) {
 	$menu = 'menu/simple';
-  $nodots = remove_dot_segments($page);
-  if ('/' == $nodots) $nodots = '/index' and $menu = 'menu/home';
-
-  $parts = ['head', $menu, "s/$nodots", 'footer'];
+	$nodots = remove_dot_segments($page);
+	if ('/' == $nodots) $nodots = 'index' and $menu = 'menu/home';
+	$nodots = "s/$nodots";
+  $parts = ['head', $menu, $nodots, 'footer'];
   $parts = array_map(function($elem) {
     return abs_path($elem . '.php');
   }, $parts);
@@ -97,14 +97,32 @@ function page_simple($page) {
 	return parts_join($parts, 2);
 }
 
+function page_message($message) {
+	$menu = 'menu/simple';
+  $parts = ['head', $menu, $message, 'footer'];
+  $parts = array_map(function($elem) {
+    return abs_path($elem . '.php');
+  }, $parts);
+
+	$out = '';
+  foreach(page(...$parts) as $inx => $part) {
+		if (empty($part)) { 
+      $part = $inx == 2 ? sprintf('<main><section><div class="container"><div class="col-sm-12"><p class="heading">%s</p></div></div></section></main>', $message) : '';
+    }
+    $out .= $part;
+  };
+	return $out;
+}
+
 function parts_join($parts, $foundable) {
   $out = '';
   foreach(page(...$parts) as $inx => $part) {
-    if (false === $part) { 
+		// '' is a false
+		if (empty($part)) { 
       return 
         $inx == $foundable 
-        ? [ 'Not Found', 404] 
-        : ['missing page part', 500];
+        ? [page_message('Pagina nu a putut fi gasita'), 404] 
+        : [page_message('Pagina nu a putut fi livrata'), 500];
     }
     $out .= $part;
   };
