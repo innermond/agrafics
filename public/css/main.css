@@ -182,6 +182,9 @@ header{
 .slick-next{
 	right: 0;
 }
+.slick-prev{
+	left: 0;
+}
 .slick-prev:hover, .slick-next:hover{
 	color: #09a89e;
 }
@@ -438,8 +441,10 @@ footer .max-w{
 .controls{
 	position: relative;
 }
-.carousel-control{
-	width:auto;
+.carousel-inner{
+  position: relative;
+  margin:auto;
+  width: 70%;
 }
 main section.section-presenting{
   margin-bottom:20px;
@@ -567,4 +572,8 @@ div.thumbnail.humanface{
 	.servicii .col-xs-6{
 		width: 100%;
 	}
+  .carousel-inner{
+    width: auto;
+  }
 }
+
