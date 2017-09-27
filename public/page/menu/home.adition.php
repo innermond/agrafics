@@ -1,6 +1,6 @@
 <div class="container container-fullwidth">
 	<div class="hero-jumper">
-		<img class="img-responsive centered" src="images/top-bg.png" alt="">
+		<img class="hero-image" src="images/top-bg.png" alt="">
 		<div class="abs-text">
 			<h2>Strategii de succes.</h2>
 			<h5>Peste <strong>1800</strong> de proiecte implementate.</h5>

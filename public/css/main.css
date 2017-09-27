@@ -466,7 +466,11 @@ span.slick-prev i{font-size:.5em}
 	width:100%;
 	padding:0;
 }
-.centered{
+.hero-image{
+	display: block;
+	width: 100%;
+	max-width: 1300px;
+	height: auto;
 	margin:auto;
 }
 .hero-jumper{
