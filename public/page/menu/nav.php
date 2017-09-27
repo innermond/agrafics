@@ -20,6 +20,7 @@ if (is_array($params) and ! empty($params)) {
 	unset($default, $v, $k, $newk, $out);
 };
 ?>
+	<div class="container">
 		<nav class="navbar navbar-default">
 			<div class="container-fluid"> 
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -79,3 +80,4 @@ if (is_array($params) and ! empty($params)) {
 			</div>
 			<!-- /.container-fluid --> 
 		</nav>
+</div>

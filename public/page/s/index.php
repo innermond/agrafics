@@ -161,7 +161,7 @@
 				<p>Noi consideram consultanta ca fiind un intreg proces, prezenta in tot ceea ce facem, nu doar o gama de servicii oferita clientilor nostri. Suntem alaturi de clientii nostri de la semnarea contractului si pana la sfarsit in toate etapele, iar istoria a demonstrat ca si dupa… </p>
 				<p>Procesul de consultanta presupune interactiune la un nivel complex si atat de dinamic, incat relatiile dintre elementele procesuale se remodeleaza constant, in fiecare etapa, in functie de cercetarile, analizele si studiile realizate, nevoile si conditionarile clientilor nostri si ale proiectelor acestora, precum si in functie de actiunea diversilor factori externi care influenteaza mediul de referinta. </p>
 				<p>Informatiile obtinute genereaza anumite recomandari, implementarea acestora si evaluarea solutiilor implementate pentru rezolvarea problemelor semnalate dau masura si impun directia actiunilor urmatoare, astfel incat acest proces se reia sub alta forma de fiecare data, adaptat tuturor situatiilor specifice. </p>
-				<a href="#" class="btn btn-success">mai multe &gt;</a> </div>
+				<a href="/consultanta" class="btn btn-success">mai multe &gt;</a> </div>
 		</div>
 	</div>
 </section>
@@ -174,8 +174,10 @@
 			<div class="col-sm-6"> <img src="images/comunicare.jpg" class="img-responsive" alt=""> </div>
 			<div class="col-sm-6">
 				<h4>Mauris elit leo, fringilla vitae </h4>
-				<p>Miezul unei societati deschise este unul dinamic. Influentam si suntem influentati, iar comunicarea reprezinta liantul, cel prin care ne formam si ne schimbam/ modificam perceptiile, atitudinile si chiar comporamentele. Comunicarea institutionala detaseaza institutia de serviciile oferite. Afirmarea propriilor valori reprezinta un obiectiv in sine, insa comunicarea impactului misiunii sale culturale/ economice/ sociale etc in comunitatea din care face parte reprezinta o tinta cu o miza mult mai mare. Comunicarea institutionala este adesea pusa in relatie cu reputatia si imaginea publica a institutiilor, pentru ca favorabilitatea acestora determina existenta unui anumit climat de opinie la nivel comunitar, care poate influenta felul in care mesajele vehiculate ajung la publicul tinta sau la membrii comunitatii locale in ansamblul ei. </p>
-				<div class="text-right"><a href="#" class="btn btn-success">mai multe &gt;</a></div>
+				<p>Miezul unei societati deschise este unul dinamic. Influentam si suntem influentati, iar comunicarea reprezinta liantul, cel prin care ne formam si ne schimbam/ modificam perceptiile, atitudinile si chiar comporamentele. Comunicarea institutionala detaseaza institutia de serviciile oferite.</p>
+<p>Afirmarea propriilor valori reprezinta un obiectiv in sine, insa comunicarea impactului misiunii sale culturale/ economice/ sociale etc in comunitatea din care face parte reprezinta o tinta cu o miza mult mai mare.</p>
+<p>Comunicarea institutionala este adesea pusa in relatie cu reputatia si imaginea publica a institutiilor, pentru ca favorabilitatea acestora determina existenta unui anumit climat de opinie la nivel comunitar, care poate influenta felul in care mesajele vehiculate ajung la publicul tinta sau la membrii comunitatii locale in ansamblul ei. </p>
+				<div class="text-right"><a href="/comunicare-institutionala" class="btn btn-success">mai multe &gt;</a></div>
 			</div>
 		</div>
 	</div>
@@ -191,7 +193,7 @@
 				<p>Credem in principiile educatiei continue a adultilor, pe durata intregii vieti, si am oferit si oferim in continuare servicii de consiliere, informare, formare si perfectionare profesionala si manageriala in domenii din cele mai variate. </p>
 				<p>Am sprijinit schimbarea vietilor in mai bine pentru …. oameni, care au participat la cursurile organizate de agentia noastra pentru clientii nostri institutionali sau in cadrul proiectelor cu finantare nerambursabila. </p>
 				<p>Am sprijinit cresterea si dezvoltarea profesionala a functionarilor publici si a personalului contractual din majoritatea institutiilor, autoritatilor si agentiilor centrale din Romania, a persoanelor calificate/ necalificate si/ sau cu risc social crescut si vulnerabilitate ridicata pe piata muncii (persoane care se confrunta cu saracia  si/ sau excluziunea sociala pe piata muncii: someri, tineri, persoane din mediul rural, femei, rromi etc).</p>
-				<a href="#" class="btn btn-success">mai multe &gt;</a> </div>
+				<a href="/formare-profesionala" class="btn btn-success">mai multe &gt;</a> </div>
 			<div class="col-sm-6"> <img src="images/management.jpg" class="img-responsive" alt=""> </div>
 		</div>
 	</div>
