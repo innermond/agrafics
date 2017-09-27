@@ -481,9 +481,6 @@ div.thumbnail.humanface{
 	}
 }
 @media (max-width:991px){
-	body{
-		font-size: 14px;
-	}
 	.navbar-default .navbar-nav > li > a{
 		font-size: 13px;
 	}
@@ -568,6 +565,12 @@ div.thumbnail.humanface{
 	}
 }
 @media (max-width:550px){
+	body{
+		font-size: 18px;
+	}
+  p{
+    text-align:justify;
+  }
 	.servicii .col-xs-6{
 		width: 100%;
 	}
