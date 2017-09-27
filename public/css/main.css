@@ -146,24 +146,26 @@ header{
 .navbar-brand{
 	height: auto;
 }
-.item h2{
+.abs-text h2{
 	color: #173b46;
 	font-weight: 200;
 	font-size: 46px;
+  margin:0;
 }
-.item h5{
+.abs-text h5{
 	color: #f2f2f2;
 	font-size: 20px;
 	margin-top: 12px;
+  margin:0;
 }
-.item h5 strong{
+.abs-text h5 strong{
 	color: #09a89e;
 }
 .abs-text{
-	position: absolute;
-	top: 50%;
-	margin-top: -100px;
-	left: 20px;
+  position: absolute;
+  top: 50%;
+  margin-top: -3em;
+  margin-left: 10%;
 }
 .scroll-down{
 	text-align: center;
@@ -249,7 +251,7 @@ main h4{
 	color: #09a89e;
 	font-size: 24px;
 	text-transform: uppercase;
-	margin: 20px 0;
+	margin: 0;
 }
 main h5{
 	color: #707171;
@@ -381,6 +383,7 @@ footer a{
 .social a{
 	font-size: 50px;
 	margin: 0 7px;
+	color: #e1e1e1;
 }
 .social a:hover{
 	color: #03847c;
@@ -455,8 +458,20 @@ div.thumbnail.humanface{
   border:none;
 }
 .navbar-default .navbar-nav > li > a.look-disabled:hover,
-.navbar-default .navbar-nav > li > a.look-disabled{color:grey;cursor:none;}
+.navbar-default .navbar-nav > li > a.look-disabled{color:#e1e1e1;cursor:none;}
+span.slick-next i{font-size:.5em}
+span.slick-prev i{font-size:.5em}
 
+.container-fullwidth{
+	width:100%;
+	padding:0;
+}
+.centered{
+	margin:auto;
+}
+.hero-jumper{
+	background: url("/images/top-bg-stripe.png") center center repeat-x;
+}
 @media (max-width:1199px){
 	body{
 		font-size: 16px;
@@ -479,6 +494,7 @@ div.thumbnail.humanface{
 	.contact-email{
 		font-size: 18px;
 	}
+	.hero-jumper{background:none;}
 }
 @media (max-width:991px){
 	.navbar-default .navbar-nav > li > a{
@@ -563,6 +579,9 @@ div.thumbnail.humanface{
 		width: 100%;
 		text-align: center;
 	}
+  .abs-text h5{
+     color: #09a89e; 
+  }
 }
 @media (max-width:550px){
 	body{
@@ -587,4 +606,3 @@ div.thumbnail.humanface{
     width: auto;
   }
 }
-
