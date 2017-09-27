@@ -107,7 +107,7 @@ function page_message($message) {
 	$out = '';
   foreach(page(...$parts) as $inx => $part) {
 		if (empty($part)) { 
-      $part = $inx == 2 ? sprintf('<main><section><div class="container"><div class="col-sm-12"><p class="heading">%s</p></div></div></section></main>', $message) : '';
+      $part = $inx == 2 ? sprintf('<main><section><div class="container"><div class="col-sm-12"><p class="heading alert alert-danger">%s</p></div></div></section></main>', $message) : '';
     }
     $out .= $part;
   };
