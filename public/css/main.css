@@ -568,6 +568,15 @@ div.thumbnail.humanface{
 	body{
 		font-size: 18px;
 	}
+  .navbar-default .navbar-nav > li > a{
+		font-size: 20px;
+	}
+	.navbar-default .navbar-nav > li.dropdown > a{
+		font-size: 20px;
+	}
+	.navbar-right .dropdown-menu{
+		font-size: 20px;
+	}
   p{
     text-align:justify;
   }
