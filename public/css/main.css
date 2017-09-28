@@ -476,6 +476,10 @@ span.slick-prev i{font-size:.5em}
 .hero-jumper{
 	background: url("/images/top-bg-stripe.png") center center repeat-x;
 }
+#map{
+  height:500px;
+  width:100%;
+}
 @media (max-width:1199px){
 	body{
 		font-size: 16px;
