@@ -129,7 +129,19 @@ function parts_join($parts, $foundable) {
   return [$out, 200];
 }
 
-list($rendered, $code) = page_simple($_SERVER['REQUEST_URI']);
+$uri = $_SERVER['REQUEST_URI'];
+if ($uri == '/descarca-harta') {
+	$filePublic = '/images/map.png';
+	$file = ROOT . $filePublic;
+	header('Content-Type: image/png');
+	header('Content-Transfer-Encoding: binary');
+	header('Content-Length: ' . filesize($file));
+	header('Content-Disposition: attachment; filename="harta agrafics"');
+	readfile($file);
+	exit;
+}
+
+list($rendered, $code) = page_simple($uri);
 switch ($code) {
   case 500:
     header($_SERVER['SERVER_PROTOCOL'] . ' 500 Internal Server Error', true, 500);
