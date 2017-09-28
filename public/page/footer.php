@@ -12,8 +12,8 @@
 					Bucuresti, Romania </div>
 				<div class="col-sm-3"> Phone:+31 (0) 6 300 255 36<br>
 					Email: <a href="mailto:office@agrafics.ro">office@agrafics.ro</a> </div>
-				<div class="col-sm-3"> <a href="#">Google Maps</a><br>
-					<a href="#">Download direction</a> </div>
+				<div class="col-sm-3"> <a href="/locatie">Google Maps</a><br>
+					<a href="/descarca-harta">Download direction</a> </div>
 				<div class="col-sm-4"> Suntem acasă de luni până vineri, între <br>
 					10.00 şi 18.00 şi uneori peste program. </div>
 			</div>

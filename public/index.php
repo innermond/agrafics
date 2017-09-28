@@ -1,5 +1,5 @@
 <?php
-
+define('ROOT', __DIR__);
 // as per RFC 3986
 // @see http://tools.ietf.org/html/rfc3986#section-5.2.4
 function remove_dot_segments($input) {
