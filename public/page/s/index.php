@@ -18,24 +18,20 @@
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner text-center">
 			<div class="item active">
-				<h6>De la agentie de publicitate la comunicare institutionala</h6>
-				<p>In timp, am devenit o agentie de publicitate full-service, ne-am rebranduit si am adaugat “Communication” la deja cunoscutul “AGRAFICS”. AGRAFICS COMMUNICATION si-a completat in scurt timp echipa cu un numar substantial de specialisti in comunicare, alaturi de care si-a cladit reputatia pe piata de publicitate de la noi. </p>
-				<p>Dupa o perioada intesata de proiecte de comunicare si campanii de advertising, in timpul careia am reusit sa ne cunoastem punctele forte si punctele slabe, capacitatile si limitele, am pornit pe o noua traiectorie: comunicarea institutionala. A fost o provocare sa ne adaptam acestui mediu, insa grupul nostru a reactionat intotdeauna bine in fata unei provocari. </p>
-				<p> Deja, pe langa cei cativa care incepusera cu aproape 10 ani in urma, echipa noastra a inceput sa creasca, sa se completeze cu colegi din tot mai multe domenii pentru ca, aveam noi sa constatam, comunicarea institutionala nu este doar despre cum comunici, ci si despre expertiza in ceea ce comunici. </p>
+				<h6>Inceputurile</h6>
+				<p>Debutul nostru a avut loc in 2002, atunci cand a aparut AGRAFICS, o agentie de publicitate mica, provinciala la momentul respectiv, dar fara complexe.</p>
 			</div>
 			<div class="item">
 				<h6>De la agentie de publicitate la comunicare institutionala</h6>
-				<p>In timp, am devenit o agentie de publicitate full-service, ne-am rebranduit si am adaugat “Communication” la deja cunoscutul “AGRAFICS”. AGRAFICS COMMUNICATION si-a completat in scurt timp echipa cu un numar substantial de specialisti in comunicare, alaturi de care si-a cladit reputatia pe piata de publicitate de la noi. </p>
+				<p>In timp, am devenit o agentie de publicitate full-service, ne-am rebranduit si am adaugat “Communication” la deja cunoscutul “AGRAFICS”. AGRAFICS COMMUNICATION si-a completat in scurt timp echipa cu un numar substantial de specialisti in comunicare, alaturi de care si-a cladit reputatia pe piata de publicitate de la noi. Dupa o perioada intesata de proiecte de comunicare si campanii de advertising, in timpul careia am reusit sa ne cunoastem punctele forte si punctele slabe, capacitatile si limitele, am pornit pe o noua traiectorie: comunicarea institutionala. A fost o provocare sa ne adaptam acestui mediu, insa grupul nostru a reactionat intotdeauna bine in fata unei provocari. Deja, pe langa cei cativa care incepusera cu aproape 10 ani in urma, echipa noastra a inceput sa creasca, sa se completeze cu colegi din tot mai multe domenii pentru ca, aveam noi sa constatam, comunicarea institutionala nu este doar despre cum comunici, ci si despre expertiza in ceea ce comunici.</p>
 			</div>
 			<div class="item">
-				<h6>De la agentie de publicitate la comunicare institutionala</h6>
-				<p>Dupa o perioada intesata de proiecte de comunicare si campanii de advertising, in timpul careia am reusit sa ne cunoastem punctele forte si punctele slabe, capacitatile si limitele, am pornit pe o noua traiectorie: comunicarea institutionala. A fost o provocare sa ne adaptam acestui mediu, insa grupul nostru a reactionat intotdeauna bine in fata unei provocari. </p>
-				<p> Deja, pe langa cei cativa care incepusera cu aproape 10 ani in urma, echipa noastra a inceput sa creasca, sa se completeze cu colegi din tot mai multe domenii pentru ca, aveam noi sa constatam, comunicarea institutionala nu este doar despre cum comunici, ci si despre expertiza in ceea ce comunici. </p>
+				<h6>De la comunicare la consultanta</h6>
+				<p>Si pentru ca echipa noastra crestea, iar specializarile se diversificau, urmatoarea etapa a venit natural: am devenit consultanti in domeniile despre care initial doar am comunicat. Am implementat programe, am facut asistenta tehnica si dezvoltare institutionala, am format personal contractual si functionari publici din majoritatea ministerelor si agentiilor din Romania. Am fost implicati in proiecte multe si de mare anvergura. Am invatat bine si i-am invatat pe altii ce inseamna finantarile nerambursabile, am gestionat bugete impresionante, dar, mai ales, am reusit sa schimbam destine.</p>
 			</div>
 			<div class="item">
-				<h6>De la agentie de publicitate la comunicare institutionala</h6>
-				<p>In timp, am devenit o agentie de publicitate full-service, ne-am rebranduit si am adaugat “Communication” la deja cunoscutul “AGRAFICS”. AGRAFICS COMMUNICATION si-a completat in scurt timp echipa cu un numar substantial de specialisti in comunicare, alaturi de care si-a cladit reputatia pe piata de publicitate de la noi. </p>
-				<p>Dupa o perioada intesata de proiecte de comunicare si campanii de advertising, in timpul careia am reusit sa ne cunoastem punctele forte si punctele slabe, capacitatile si limitele, am pornit pe o noua traiectorie: comunicarea institutionala. A fost o provocare sa ne adaptam acestui mediu, insa grupul nostru a reactionat intotdeauna bine in fata unei provocari. </p>
+				<h6>There is no upper limit</h6>
+				<p>Sa folosim prezentul pentru a construi viitorul ne sta in fire. Dorinta noastra interna de transformare este cea care ne-a permis mereu o schimbare de perspectiva utila si necesara si ne-a conferit un grad de flexibilitate si adaptabilitate apreciat in mod special de clientii agentiei. Procesul lung de asumare decizionala si de transformari interne parcurs de Agrafics Communication se manifesta in exterior. Si vom largi acest exterior, pentru a-l ingloba activitatilor noastre curente. Am demonstrat ca stim, vrem si putem la nivel national, urmeaza sa ne dezvoltam in plan international si sa sprijinim formarea de parteneriate puternice care pot influenta viitorul tuturor.</p>
 			</div>
 			<!-- End Item --> 
 		</div>
@@ -117,14 +113,14 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<h4>ECHIPA NOASTRA</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse pellentesque feugiat urna, sit amet molestie ex semper quis. Cras non pulvinar tellus, eu mollis risus. Proin sagittis turpis non ex tincidunt eleifend. Aenean nec sem augue. Vestibulum sed mi sed mauris rutrum sodales. Nulla bibendum maximus neque, eleifend pretium enim malesuada in. Nullam dui nisi, dapibus et hendrerit nec, laoreet at sem. Curabitur sit amet euismod neque, rutrum pretium arcu. </p>
-				<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin feugiat ex magna, id euismod velit ultricies vitae. Curabitur malesuada scelerisque suscipit. Aenean vel justo consequat nunc congue suscipit. Mauris sed malesuada dui, imperdiet sagittis velit. Quisque id aliquet turpis.</p>
-				<p>Fusce rutrum sodales bibendum. Mauris dignissim dui mollis lectus feugiat, eget elementum tortor laoreet. Curabitur libero turpis, finibus in tempor ut, hendrerit in est. Aenean maximus, mauris vel pulvinar finibus, nulla magna semper dolor, ac volutpat libero tortor at tellus. Sed interdum cursus dapibus. </p>
-				<p>Curabitur tincidunt sollicitudin nisi ac bibendum. Aliquam massa justo, commodo sit amet sagittis ac, elementum ac dolor. Maecenas euismod lectus vitae mi faucibus, id commodo mi venenatis. Aenean porttitor libero at lacus cursus lobortis. Phasellus ut pretium mauris, at laoreet neque. Nunc sagittis aliquam auctor. In vestibulum tellus vel mauris mollis, vel faucibus </p>
+				<p>Echipa Agrafics Communication este formata din oameni care au investit enorm in pregatirea lor, care isi fac treaba cu pasiune si care traiesc la intensitate maxima orice noua provocare profesionala.</p>
+				<p>Pretuim valoarea umana si o cultivam in jurul nostru, pentru ca doar asa ne putem asigura de continuitatea muncii de calitate pentru care garantam. Managementul agentiei isi dedica o mare parte din timp imbunatatirii proceselor interne de gestionare a comenzilor sau a eventualelor nevoi punctuale ale clientilor, astfel incat s-a ajuns la un timp scurt de raspuns si o flexibilitate foarte mare, pastrand acelasi nivel de calitate asteptat de clientii nostri pe tot parcursul implementarii unui proiecti.</p>
+				<p>Activitatea Agrafics Communication este impartita pe 4 (patru) departamente. Departamentele Finantare externa, Achizitii publice si Implementare proiecte gestioneaza impreuna fluxul proiectelor din portofoliul agentiei de la identificarea oportunitatii si a finantatorului/ clientului, trecand prin procedura de pregatire a ofertei si ajungand in zona de implementare din toate cele 3 (trei) arii principale ale organizarii interne a activitatii: comunicare institutionala, consultanta si formare profesionala. Cel de al patrulea departament este destinat exclusiv proiectelor speciale si dezvoltarii ulterioare.</p>
+				<p>Departamentele agentiei sunt conduse de directori, care au o experienta manageriala vasta si rezultate dintre cele mai bune in domeniul in care activeaza. In cadrul echipelor activeaza experti in domenii precum: Strategie, Planificare, Finantare externa, Client service, PR, Media si publicitate, Organizare evenimente, New Business, Juridic, Achizitii publice si Economic.</p>
 			</div>
 			<div class="col-sm-6">
 				<h4>EXPERT ACHIZITII PUBLICE</h4>
-				<h5>Responsabilități:</h5>
+				<h5>Responsabilitati:</h5>
 				<ul class="list-unstyled">
 					<li>– lucru cu sistemul electronic de achizitii publice (SEAP)</li>
 					<li>– formulare eventuale solicitari de clarificare la documentatii de atribuire</li>
