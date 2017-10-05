@@ -8,7 +8,7 @@
 				<p>Am sprijinit schimbarea vietilor in mai bine pentru …. oameni, care au participat la cursurile organizate de agentia noastra pentru clientii nostri institutionali sau in cadrul proiectelor cu finantare nerambursabila. </p>
 				<p>Am sprijinit cresterea si dezvoltarea profesionala a functionarilor publici si a personalului contractual din majoritatea institutiilor, autoritatilor si agentiilor centrale din Romania, a persoanelor calificate/ necalificate si/ sau cu risc social crescut si vulnerabilitate ridicata pe piata muncii (persoane care se confrunta cu saracia  si/ sau excluziunea sociala pe piata muncii: someri, tineri, persoane din mediul rural, femei, rromi etc).</p>
 </div>
-			<div class="col-sm-6"> <img src="images/management.jpg" class="img-responsive" alt=""> </div>
+			<div class="col-sm-6"> <img src="/images/management.jpg" class="img-responsive" alt=""> </div>
 		</div>
 	</div>
 </section>
@@ -20,22 +20,22 @@
         <p>Agrafics Communication detine autorizare ca furnizor de formare profesionala pentru o serie de cursuri. Agentia are in echipa sa specialisti cu certificare ANC de “formator” si “formator de formator”, dar si alte certificari in arii mai specifice (achizitii publice, accesare fonduri structural, evaluare proiecte, inspector si manager resurse umane, competente sociale si civice, expertiza contabila etc), precum si o baza de date extinsa de colaboratori, cu specializari umaniste sau foarte tehnice, care pot desfasura, in functie de nevoile clientului si/ sau cerintele concrete dintr-un proiect, una sau toate activitatile specifice formarii profesionale a adultilor: proiectare, planificare, organizare, realizare, evaluare sau revizuire a activitatilor de pregatire teoretica si/ sau practica si/ sau a programelor de formare in domenii dintre cele mai variate, de la cursuri de calificare ca lucrator in comert sau camerista la cursuri de specializare in antreprenoriat pentru femeile rrome si altele similare.</p>
       <div class="row"> 
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-1.jpg"></a>
+          <a href=""><img src="/images/formare-figura-1.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-2.jpg"></a>
+          <a href=""><img src="/images/formare-figura-2.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-3.jpg"></a>
+          <a href=""><img src="/images/formare-figura-3.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-4.jpg"></a>
+          <a href=""><img src="/images/formare-figura-4.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-5.jpg"></a>
+          <a href=""><img src="/images/formare-figura-5.jpg"></a>
         </div>
         <div class="col-sm-4 thumbnail humanface">
-          <a href=""><img src="images/formare-figura-6.jpg"></a>
+          <a href=""><img src="/images/formare-figura-6.jpg"></a>
         </div>
       </div>
       </div>

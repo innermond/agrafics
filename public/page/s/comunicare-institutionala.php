@@ -2,7 +2,7 @@
 <section class="section-presenting">
 	<div class="container">
     <div class="row">
-      <div class="col-sm-6"> <img src="images/comunicare.jpg" class="img-responsive" alt=""> </div>
+      <div class="col-sm-6"> <img src="/images/comunicare.jpg" class="img-responsive" alt=""> </div>
 			<div class="col-sm-6">
 				<h1>Comunicarea ne formeaza</h1>
 				<p>Miezul unei societati deschise este unul dinamic. Influentam si suntem influentati, iar comunicarea reprezinta liantul, cel prin care ne formam si ne schimbam/ modificam perceptiile, atitudinile si chiar comporamentele. Comunicarea institutionala detaseaza institutia de serviciile oferite. Afirmarea propriilor valori reprezinta un obiectiv in sine, insa comunicarea impactului misiunii sale culturale/ economice/ sociale etc in comunitatea din care face parte reprezinta o tinta cu o miza mult mai mare. Comunicarea institutionala este adesea pusa in relatie cu reputatia si imaginea publica a institutiilor, pentru ca favorabilitatea acestora determina existenta unui anumit climat de opinie la nivel comunitar, care poate influenta felul in care mesajele vehiculate ajung la publicul tinta sau la membrii comunitatii locale in ansamblul ei. </p>
@@ -29,7 +29,7 @@
 <p>Echipa Agrafics Communication este alaturi de clientii sai 24 de ore pe zi, sapte zile pe saptamana. Respectand clauzele de confidentialitate, putem spune doar ca, de-a lungul anilor, Agrafics Communication a manageriat crize care au implicat accidente de mediu, accidente de munca, discriminare la locul de munca, litigii sau acuzatii de coruptie.</p>
 <p>Reputatia nu se cumpara si nici nu se obtine in urma unor cheltuieli ocazionale de PR. Ea se castiga in timp, printr-o strategie inspirata si eficienta, prin atentia acordata detaliilor si multa munca. Construirea reputatiei este un proces in care ne implicam pe termen lung, sprijinindu-ne clientii in evitarea riscurilor, la care sunt expusi permanent si in valorificarea oportunitatilor aparute.</p>
 <p>In ceea ce priveste relatia cu comunitatea, Agrafics Communication a conceput si a implementat programe de responsabilite sociala care se bazeaza pe analiza atenta a nevoilor comunitatii in care clientii sau partenerii nostri, care ne-au solicitat sprijinul, actioneaza. Rolul agentiei in cadrul acestui tip de proiecte nu este doar acela de a planifica activitatile si de a comunica rezultatele implicarii, ci, in primul rand, acela de a recomanda acele activitati si asocieri care sunt in concordanta cu pozitionarea, valorile si misiunea companiei. Echipa Agrafics Communication a sprijinit benevol cauze si s-a implicat in campanii sociale derulate de diversi actori din mediul ONG an de an pana in prezent si va continua sa o faca, aceasta reprezentand contributia pe care Agrafics Communication o aduce comunitatii.</p>
-      <img src="images/comunicare-grup.jpg" class="img-responsive" alt="">
+      <img src="/images/comunicare-grup.jpg" class="img-responsive" alt="">
     </div>
 		</div>
 	</div>

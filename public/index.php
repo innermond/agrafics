@@ -90,7 +90,7 @@ function page_simple($page) {
 	$menu = 'menu/simple';
 	$nodots = remove_dot_segments($page);
 	if ('/' == $nodots) $nodots = 'index' and $menu = 'menu/home';
-	$nodots = "s/$nodots";
+	$nodots = rtrim("s/$nodots", '/');
   $parts = ['head', $menu, $nodots, 'footer'];
   $parts = array_map(function($elem) {
     return abs_path($elem . '.php');
