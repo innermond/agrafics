@@ -3,7 +3,7 @@
 	<div class="container">
     <div class="row">
 <div class="col-sm-6">
-				<h4>Etiam egestas a massa</h4>
+				<h4>Educatie nesfarsita</h4>
 				<p>Credem in principiile educatiei continue a adultilor, pe durata intregii vieti, si am oferit si oferim in continuare servicii de consiliere, informare, formare si perfectionare profesionala si manageriala in domenii din cele mai variate. </p>
 				<p>Am sprijinit schimbarea vietilor in mai bine pentru …. oameni, care au participat la cursurile organizate de agentia noastra pentru clientii nostri institutionali sau in cadrul proiectelor cu finantare nerambursabila. </p>
 				<p>Am sprijinit cresterea si dezvoltarea profesionala a functionarilor publici si a personalului contractual din majoritatea institutiilor, autoritatilor si agentiilor centrale din Romania, a persoanelor calificate/ necalificate si/ sau cu risc social crescut si vulnerabilitate ridicata pe piata muncii (persoane care se confrunta cu saracia  si/ sau excluziunea sociala pe piata muncii: someri, tineri, persoane din mediul rural, femei, rromi etc).</p>

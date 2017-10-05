@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col-sm-6"> <img src="images/comunicare.jpg" class="img-responsive" alt=""> </div>
 			<div class="col-sm-6">
-				<h1>Mauris elit leo, fringilla vitae </h1>
+				<h1>Comunicarea ne formeaza</h1>
 				<p>Miezul unei societati deschise este unul dinamic. Influentam si suntem influentati, iar comunicarea reprezinta liantul, cel prin care ne formam si ne schimbam/ modificam perceptiile, atitudinile si chiar comporamentele. Comunicarea institutionala detaseaza institutia de serviciile oferite. Afirmarea propriilor valori reprezinta un obiectiv in sine, insa comunicarea impactului misiunii sale culturale/ economice/ sociale etc in comunitatea din care face parte reprezinta o tinta cu o miza mult mai mare. Comunicarea institutionala este adesea pusa in relatie cu reputatia si imaginea publica a institutiilor, pentru ca favorabilitatea acestora determina existenta unui anumit climat de opinie la nivel comunitar, care poate influenta felul in care mesajele vehiculate ajung la publicul tinta sau la membrii comunitatii locale in ansamblul ei. </p>
         <p>Agrafics Communication are in spate o experienta notabila de mai bine de … proiecte in domeniul comunicarii institutionale si vine in sprijinul clientilor sai institutionali cu seturi de solutii complete si o gama de servicii diversificata pentru a face fata si celor mai exigente cerinte. Comunicarea institutionala este profund ancorata in realitate, se redefineste si se remodeleaza constant, ca suma a interactiunilor umane la acelasi nivel sau la niveluri diferite, ce da masura actiunilor viitoare.</p>
 			</div>

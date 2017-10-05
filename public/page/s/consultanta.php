@@ -4,7 +4,7 @@
     <div class="row">
 			<div class="col-sm-6"> <img src="images/consultanta.jpg" class="img-responsive" alt=""> </div>
 			<div class="col-sm-6">
-				<h1>Etiam egestas a massa sed gravida. Phasellus at erat aliquet, malesuada leo ac.</h1>
+				<h1>Mai mult decat un pachet de servicii</h1>
 				<p>Noi consideram consultanta ca fiind un intreg proces, prezenta in tot ceea ce facem, nu doar o gama de servicii oferita clientilor nostri. Suntem alaturi de clientii nostri de la semnarea contractului si pana la sfarsit in toate etapele, iar istoria a demonstrat ca si dupa… </p>
 				<p>Procesul de consultanta presupune interactiune la un nivel complex si atat de dinamic, incat relatiile dintre elementele procesuale se remodeleaza constant, in fiecare etapa, in functie de cercetarile, analizele si studiile realizate, nevoile si conditionarile clientilor nostri si ale proiectelor acestora, precum si in functie de actiunea diversilor factori externi care influenteaza mediul de referinta. </p>
 				<p>Informatiile obtinute genereaza anumite recomandari, implementarea acestora si evaluarea solutiilor implementate pentru rezolvarea problemelor semnalate dau masura si impun directia actiunilor urmatoare, astfel incat acest proces se reia sub alta forma de fiecare data, adaptat tuturor situatiilor specifice. </p>
