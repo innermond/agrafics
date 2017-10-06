@@ -140,7 +140,6 @@ if ($uri == '/descarca-harta') {
 	readfile($file);
 	exit;
 }
-
 list($rendered, $code) = page_simple($uri);
 switch ($code) {
   case 500:
