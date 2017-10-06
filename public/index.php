@@ -78,7 +78,9 @@ function return_include($include, ...$params) {
 }
 
 function page($head, $menu, $page, $footer) {
-  yield return_include($head);
+	$title = str_replace('-', ' ', ucfirst(basename($page, '.php')));
+	if ($title == 'Index') $title = 'Strategii de succes';
+  yield return_include($head, $title);
 	yield return_include($menu, $page);
 	yield return_include($page);
 	yield return_include($footer);
@@ -88,7 +90,7 @@ function page_simple($page) {
 	$menu = 'menu/simple';
 	$nodots = remove_dot_segments($page);
 	if ('/' == $nodots) $nodots = 'index' and $menu = 'menu/home';
-	$nodots = "s/$nodots";
+	$nodots = rtrim("s/$nodots", '/');
   $parts = ['head', $menu, $nodots, 'footer'];
   $parts = array_map(function($elem) {
     return abs_path($elem . '.php');

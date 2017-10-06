@@ -33,11 +33,11 @@
 	</div>
 </footer>
 <!-- jQuery first, then Bootstrap JS. --> 
-<script src="js/jquery.min.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/slick.js"></script> 
-<script src="js/scrolling-nav.js"></script> 
-<script src="js/jquery.easing.min.js"></script> 
+<script src="/js/jquery.min.js"></script> 
+<script src="/js/bootstrap.min.js"></script> 
+<script src="/js/slick.js"></script> 
+<script src="/js/scrolling-nav.js"></script> 
+<script src="/js/jquery.easing.min.js"></script> 
 <script>
 	$(document).ready(function(){
 		$('.nav-tabs li a').click(function(){
