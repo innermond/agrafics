@@ -150,7 +150,7 @@ header{
 	color: #173b46;
 	font-weight: 200;
 	font-size: 46px;
-  margin:0;
+  margin:-23px 0px 23px 0px;
 }
 .abs-text h5{
 	color: #f2f2f2;
@@ -209,7 +209,7 @@ header{
 }
 .controls li a{
 	font-size: 30px;
-	color: #686868;
+	color: #9e9d9d;
 	text-decoration: none !important;
 }
 .nav-tabs li.active a{
@@ -239,7 +239,7 @@ main h1{
 	color: #09a89e;
 	font-size: 28px;
 	text-transform: uppercase;
-	margin: 0;
+	margin: .5em 0 0 0;
 }
 main h2{
 	color: #09a89e;
@@ -432,10 +432,6 @@ footer .max-w{
 	float: left;
 	text-align: center;
 }
-.controls li a{
-	font-size: 30px;
-	color: #686868;
-}
 .controls li a:hover, .controls li a:focus{
 	background: transparent;
 	color: #3b3b3b;
@@ -479,6 +475,9 @@ span.slick-prev i{font-size:.5em}
 #map{
   height:500px;
   width:100%;
+}
+.link-more{
+	margin-top:1em;
 }
 @media (max-width:1199px){
 	body{

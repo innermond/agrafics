@@ -132,6 +132,9 @@ function parts_join($parts, $foundable) {
 }
 
 $uri = $_SERVER['REQUEST_URI'];
+if (isset($_SERVER['QUERY_STRING'])) {
+  $uri = parse_url($uri, PHP_URL_PATH);
+}
 if ($uri == '/descarca-harta') {
 	$filePublic = '/images/map.png';
 	$file = ROOT . $filePublic;
@@ -142,7 +145,6 @@ if ($uri == '/descarca-harta') {
 	readfile($file);
 	exit;
 }
-
 list($rendered, $code) = page_simple($uri);
 switch ($code) {
   case 500:
