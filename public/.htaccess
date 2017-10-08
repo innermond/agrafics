@@ -2,6 +2,12 @@
     # turn on rewriting
     RewriteEngine On
 
+		RewriteCond %{HTTP_ACCEPT} \bimage/webp\b
+		# Capture image name
+		RewriteCond %{REQUEST_URI}  (/images/.*)(\.jpe?g|\.png)$ 
+		# Route to WebP image 
+		RewriteRule .* %1\.webp [L,T=image/webp] 
+
     # turn empty requests into requests for "index.php",
     # keeping the query string intact
     RewriteRule ^$ index.php [QSA]
@@ -14,3 +20,9 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^(.*)$ index.php [QSA,L]
 </IfModule>
+
+<IfModule mod_headers.c>
+    Header append Vary Accept env=REDIRECT_accept
+</IfModule>
+
+AddType image/webp .webp
