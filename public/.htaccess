@@ -5,6 +5,7 @@
 		RewriteCond %{HTTP_ACCEPT} \bimage/webp\b
 		# Capture image name
 		RewriteCond %{REQUEST_URI}  (/images/.*)(\.jpe?g|\.png)$ 
+		RewriteCond %{DOCUMENT_ROOT}%1.webp -f
 		# Route to WebP image 
 		RewriteRule .* %1\.webp [L,T=image/webp] 
 
