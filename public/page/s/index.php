@@ -7,29 +7,29 @@
 <div class="tabs-container">
 	<div class="controls">
 		<ul class="nav">
-			<li data-target="#custom_carousel" data-slide-to="0" class="active"><a href="#">Inceputurile</a></li>
-			<li data-target="#custom_carousel" data-slide-to="1"><a href="#">Dezvoltarea</a></li>
-			<li data-target="#custom_carousel" data-slide-to="2"><a href="#">Transformarea</a></li>
-			<li data-target="#custom_carousel" data-slide-to="3"><a href="#">Viitorul</a></li>
+			<li data-target="#custom_carousel" data-slide-to="0" class="active"><a href="#inceputurile">Inceputurile</a></li>
+			<li data-target="#custom_carousel" data-slide-to="1"><a href="#dezvoltarea">Dezvoltarea</a></li>
+			<li data-target="#custom_carousel" data-slide-to="2"><a href="#transformarea">Transformarea</a></li>
+			<li data-target="#custom_carousel" data-slide-to="3"><a href="#viitorul">Viitorul</a></li>
 		</ul>
 		<!-- Controls --> 
 		<a class="left carousel-control" href="#custom_carousel" role="button" data-slide="prev"> <span class="slick-prev"><i class="fa fa-angle-left" aria-hidden="true"></i></span> <span class="sr-only">Previous</span> </a> <a class="right carousel-control" href="#custom_carousel" role="button" data-slide="next"><span class="slick-next"><i class="fa fa-angle-right" aria-hidden="true"></i></span><span class="sr-only">Next</span> </a> </div>
 	<div id="custom_carousel" class="carousel slide" data-ride="carousel"> 
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner text-center">
-			<div class="item active">
+			<div id="inceputurile" class="item active">
 				<h6>Inceputurile</h6>
 				<p>Debutul nostru a avut loc in 2002, atunci cand a aparut AGRAFICS, o agentie de publicitate mica, provinciala la momentul respectiv, dar fara complexe.</p>
 			</div>
-			<div class="item">
+			<div id="dezvoltarea" class="item">
 				<h6>De la agentie de publicitate la comunicare institutionala</h6>
 				<p>In timp, am devenit o agentie de publicitate full-service, ne-am rebranduit si am adaugat “Communication” la deja cunoscutul “AGRAFICS”. AGRAFICS COMMUNICATION si-a completat in scurt timp echipa cu un numar substantial de specialisti in comunicare, alaturi de care si-a cladit reputatia pe piata de publicitate de la noi. Dupa o perioada intesata de proiecte de comunicare si campanii de advertising, in timpul careia am reusit sa ne cunoastem punctele forte si punctele slabe, capacitatile si limitele, am pornit pe o noua traiectorie: comunicarea institutionala. A fost o provocare sa ne adaptam acestui mediu, insa grupul nostru a reactionat intotdeauna bine in fata unei provocari. Deja, pe langa cei cativa care incepusera cu aproape 10 ani in urma, echipa noastra a inceput sa creasca, sa se completeze cu colegi din tot mai multe domenii pentru ca, aveam noi sa constatam, comunicarea institutionala nu este doar despre cum comunici, ci si despre expertiza in ceea ce comunici.</p>
 			</div>
-			<div class="item">
+			<div id="transformarea" class="item">
 				<h6>De la comunicare la consultanta</h6>
 				<p>Si pentru ca echipa noastra crestea, iar specializarile se diversificau, urmatoarea etapa a venit natural: am devenit consultanti in domeniile despre care initial doar am comunicat. Am implementat programe, am facut asistenta tehnica si dezvoltare institutionala, am format personal contractual si functionari publici din majoritatea ministerelor si agentiilor din Romania. Am fost implicati in proiecte multe si de mare anvergura. Am invatat bine si i-am invatat pe altii ce inseamna finantarile nerambursabile, am gestionat bugete impresionante, dar, mai ales, am reusit sa schimbam destine.</p>
 			</div>
-			<div class="item">
+			<div id="viitorul" class="item">
 				<h6>Fara limite</h6>
 				<p>Sa folosim prezentul pentru a construi viitorul ne sta in fire. Dorinta noastra interna de transformare este cea care ne-a permis mereu o schimbare de perspectiva utila si necesara si ne-a conferit un grad de flexibilitate si adaptabilitate apreciat in mod special de clientii agentiei. Procesul lung de asumare decizionala si de transformari interne parcurs de Agrafics Communication se manifesta in exterior. Si vom largi acest exterior, pentru a-l ingloba activitatilor noastre curente. Am demonstrat ca stim, vrem si putem la nivel national, urmeaza sa ne dezvoltam in plan international si sa sprijinim formarea de parteneriate puternice care pot influenta viitorul tuturor.</p>
 			</div>
