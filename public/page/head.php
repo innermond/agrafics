@@ -14,10 +14,9 @@
 <title>Agrafics - <?=$params[0]?></title>
 <!-- Bootstrap -->
 <link href="/css/bootstrap.min.css" rel="stylesheet">
-<link href="/css/main.css" rel="stylesheet">
+<link href="/css/main.min.css" rel="stylesheet">
 <link href="/css/font-awesome.min.css" rel="stylesheet">
-<link href="/css/slick.css" rel="stylesheet">
-<link href="/css/scrolling-nav.css" rel="stylesheet">
+<link href="/css/slick.min.css" rel="stylesheet">
 <script>
   document.documentElement.classList.remove("no-js");
 </script>
