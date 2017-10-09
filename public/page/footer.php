@@ -32,6 +32,29 @@
 		</div>
 	</div>
 </footer>
+<noscript id="deferred-styles">
+<!-- Bootstrap -->
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/main.css" rel="stylesheet">
+<link href="/css/font-awesome.min.css" rel="stylesheet">
+<link href="/css/slick.min.css" rel="stylesheet">
+</noscript>
+<script>
+  var loadDeferredStyles = function() {
+    var addStylesNode = document.getElementById("deferred-styles");
+    var replacement = document.createElement("div");
+    replacement.innerHTML = addStylesNode.textContent;
+    document.body.appendChild(replacement)
+    addStylesNode.parentElement.removeChild(addStylesNode);
+  };
+  var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+  webkitRequestAnimationFrame || msRequestAnimationFrame;
+  if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+  else window.addEventListener('DOMContentLoaded', loadDeferredStyles);
+  window.addEventListener('load', function() {
+    document.getElementsByTagName( "html" )[0].classList.remove( "loading" );
+  });
+</script>
 <!-- jQuery first, then Bootstrap JS. --> 
 <script src="/js/jquery.min.js"></script> 
 <script src="/js/bootstrap.min.js"></script> 
@@ -50,41 +73,7 @@
 			  $('#custom_carousel .controls li:eq('+$(evt.relatedTarget).index()+')').addClass('active');
 			})
 		});
-/*	$('.nav-tabs').slick({
-  dots: false,
-  infinite: false,
-  speed: 300,
-  slidesToShow: 4,
-  slidesToScroll: 1,
-	appendDots: false,
- 
-  responsive: [
-    {
-      breakpoint: 1024,
-      settings: {
-        slidesToShow: 3,
-        slidesToScroll: 3,
-        infinite: true,
-        dots: true
-      }
-    },
-    {
-      breakpoint: 600,
-      settings: {
-        slidesToShow: 2,
-        slidesToScroll: 2
-      }
-    },
-    {
-      breakpoint: 480,
-      settings: {
-        slidesToShow: 1,
-        slidesToScroll: 1
-      }
-    }
-  ]
-});*/
-		});
-	</script>
+  });
+</script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en" class="no-js loading">
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -12,11 +12,47 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <meta charset="utf-8">
 <title>Agrafics - <?=$params[0]?></title>
-<!-- Bootstrap -->
-<link href="/css/bootstrap.min.css" rel="stylesheet">
-<link href="/css/main.min.css" rel="stylesheet">
-<link href="/css/font-awesome.min.css" rel="stylesheet">
-<link href="/css/slick.min.css" rel="stylesheet">
+<style>
+html {
+-webkit-transition: background-color 2s;
+transition: background-color 2s;
+}
+html, body {
+/* For the loading indicator to be vertically centered ensure */
+/* the html and body elements take up the full viewport */
+min-height: 100%;
+}
+html.loading {
+/* Replace #333 with the background-color of your choice */
+/* Replace loading.gif with the loading image of your choice */
+background: white url("/images/827.gif") no-repeat 50% 40% fixed;
+
+/* Ensures that the transition only runs in one direction */
+-webkit-transition: background-color 0;
+transition: background-color 0;
+}
+html.no-js.loading{background-image: none;background-color:white;}
+body {
+-webkit-transition: opacity 2s ease-in;
+transition: opacity 2s ease-in;
+}
+html.loading body {
+/* Make the contents of the body opaque during loading */
+opacity: 0;
+
+/* Ensures that the transition only runs in one direction */
+-webkit-transition: opacity 0;
+transition: opacity 0;
+}
+html.no-js.loading body {
+/* Make the contents of the body opaque during loading */
+opacity: 1;
+
+/* Ensures that the transition only runs in one direction */
+-webkit-transition: opacity 1;
+transition: opacity 1;
+}
+</style>
 <script>
   document.documentElement.classList.remove("no-js");
 </script>
