@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -18,6 +18,9 @@
 <link href="/css/font-awesome.min.css" rel="stylesheet">
 <link href="/css/slick.css" rel="stylesheet">
 <link href="/css/scrolling-nav.css" rel="stylesheet">
+<script>
+  document.documentElement.classList.remove("no-js");
+</script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
